@@ -1,3 +1,5 @@
+an empty starting point for a threejs playground.
+
 ```
 npm run dev
 ```
